@@ -13,7 +13,7 @@ If you have a small TV (like a kitchen or garage TV) and the sound from the TV's
 it could be worth buying an Amazon Echo smart speaker as a soundbar for your TV.  
 
 [Amazon's Echo (4th generation) smart speaker](https://www.amazon.co.uk/gp/product/B085G58KWT/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B085G58KWT&linkCode=as2&tag=simondean-21&linkId=3f5120bbb57a7cafa10e651402566437)
-has an often overlooked line in feature where you can connect another device like a TV to the Echo and then use the 
+has an often overlooked line-in feature where you can connect another device like a TV to the Echo and then use the 
 Echo as a speaker for that TV or other device.  The way Amazon have implemented this feature is quite clever and has
 these benefits: 
 
