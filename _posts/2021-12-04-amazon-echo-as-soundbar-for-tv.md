@@ -2,7 +2,7 @@
 title: "Amazon Echo makes a great soundbar for a small TV"
 layout: affiliate-post
 categories:
-- hardware hacks
+- hardware-hacks
 tags:
 - amazon alexa
 - smart speakers
