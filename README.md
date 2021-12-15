@@ -4,5 +4,7 @@
 
 ``` shell
 $ bundle install
-$ bundle exec jekyll serve
+$ JEKYLL_ENV=production bundle exec jekyll serve
 ```
+
+The `JEKYLL_ENV=production` environment variable is needed for the comments section to render on the website.  
