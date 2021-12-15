@@ -9,10 +9,9 @@ tags:
 - travelling
 ---
 
-When staying in a hotel, AirBNB property or holidaying anywhere else with a TV, if the TV has an available HDMI port,
-[Amazon's Fire TV Stick](https://www.amazon.co.uk/gp/product/B08MQZYSVC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=simondean-21&creative=6738&linkCode=as2&creativeASIN=B08MQZYSVC&linkId=b6eae4776f1296d090039dfdc4689127)
-can be a great way to watch Prime Video, Netflix, Disney+ etc. if you have subscriptions to those services, or you 
-could rent or buy TV or movies.
+When staying in a hotel, AirBNB property or holidaying anywhere else with a TV, if the TV has an available HDMI port, 
+Amazon's Fire TV Stick can be a great way to watch Prime Video, Netflix, Disney+ etc. if you have subscriptions to 
+those services, or you could rent or buy TV or movies.
 
 Compared to something like a Google Chromecast, an Amazon Fire TV stick has some key advantages:
 
@@ -29,9 +28,8 @@ Amazon makes a few different versions of the Fire TV Stick:
 3. [Fire TV Stick 4K](https://www.amazon.co.uk/gp/product/B08XVVPXX4/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=simondean-21&creative=6738&linkCode=as2&creativeASIN=B08XVVPXX4&linkId=780a3752acd55a61eb4b1cc53ec348d2)
 4. [Fire TV Stick 4K Max](https://www.amazon.co.uk/gp/product/B08MQZYSVC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=simondean-21&creative=6738&linkCode=as2&creativeASIN=B08MQZYSVC&linkId=b6eae4776f1296d090039dfdc4689127)
 
-The [Fire TV Stick 4K Max](https://www.amazon.co.uk/gp/product/B08MQZYSVC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=simondean-21&creative=6738&linkCode=as2&creativeASIN=B08MQZYSVC&linkId=b6eae4776f1296d090039dfdc4689127)
-is the version of the Fire TV Stick that I would recommend.  It has these features that make it stand out from the 
-other versions:
+The Fire TV Stick 4K Max is the version of the Fire TV Stick that I would recommend.  It has these features that make 
+it stand out from the other versions:
 
 1. 4K support (the none "Max" version also supports 4K)
 2. Supports the AV1 video codec that streaming services are starting to use.  This future proofs this version of the 
