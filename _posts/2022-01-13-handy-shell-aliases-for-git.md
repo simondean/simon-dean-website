@@ -28,7 +28,7 @@ alias gnb='(if [[ $(git status --porcelain --untracked-files=no | wc -l) -gt 0 ]
 
 Fish function:
 
-```fish
+```shell
 function gnb
     if test (git status --porcelain --untracked-files=no | wc -l) -gt 0
         git stash && git checkout (git remote show origin | awk '/HEAD branch/ {print $NF}') && git pull && git stash apply && git add -u && git checkout -B $argv
@@ -59,7 +59,7 @@ alias gcb='git commit -m "$(git symbolic-ref --short -q HEAD | sed -E '\''s:_: :
 
 Fish function:
 
-```fish
+```shell
 function gcb
     git commit -m (git symbolic-ref --short -q HEAD | sed -E 's:_: :g') $argv && git log -1
 end
@@ -88,7 +88,7 @@ alias gpb='git push --set-upstream origin $(git symbolic-ref --short -q HEAD)'
 
 Fish function:
 
-```fish
+```shell
 function gpb
     git push --set-upstream origin (git symbolic-ref --short -q HEAD)
 end
