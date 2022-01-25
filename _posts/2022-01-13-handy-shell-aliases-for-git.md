@@ -90,7 +90,7 @@ Fish function:
 
 ```shell
 function gpb
-    git push --set-upstream origin (git symbolic-ref --short -q HEAD)
+    git push --set-upstream origin (git symbolic-ref --short -q HEAD) $argv
 end
 ```
 
