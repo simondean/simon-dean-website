@@ -83,14 +83,14 @@ the first time.
 Bash and Zsh alias:
 
 ```shell
-alias gpb='git push --set-upstream origin $(git symbolic-ref --short -q HEAD)'
+alias gpb='git push --set-upstream origin head'
 ```
 
 Fish function:
 
 ```shell
 function gpb
-    git push --set-upstream origin (git symbolic-ref --short -q HEAD) $argv
+    git push --set-upstream origin head $argv
 end
 ```
 
